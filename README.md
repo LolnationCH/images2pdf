@@ -2,7 +2,19 @@
 
 Python script to create pdf from a directory of images
 
-[TOC]
+<!-- TOC depthFrom:1 depthTo:6 withLinks:1 updateOnSave:1 orderedList:0 -->
+
+- [Images2pdf](#images2pdf)
+	- [Goal of this project](#goal-of-this-project)
+	- [Requirements](#requirements)
+	- [How to use](#how-to-use)
+		- [Config File](#config-file)
+		- [Mode section](#mode-section)
+		- [Running the script](#running-the-script)
+	- [Annex A - Mode subdirectoriesToPdf](#annex-a-mode-subdirectoriestopdf)
+	- [Annex B - Mode collectionToPdf](#annex-b-mode-collectiontopdf)
+
+<!-- /TOC -->
 
 ## Goal of this project
 
