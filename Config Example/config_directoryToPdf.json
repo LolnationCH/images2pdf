@@ -1,0 +1,8 @@
+{
+  "path": "C:\\Users\\lolCH\\ScansCollection\\Reki\\book 1",
+  "mode": "directoryToPdf",
+  "backup": false,
+  "remove_dir": false,
+  "debug":true,
+  "name":"The book of life"
+}
