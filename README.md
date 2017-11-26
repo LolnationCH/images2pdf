@@ -77,7 +77,7 @@ Note : If you are using the debug option, it is possible that a filename.pdf doe
 ## Annex A - Mode subdirectoriesToPdf
 Before script :
 ```
----- Path Specify
+---- Path Specified
 -------- Folder1
 ------------ Image1.jpg
 ------------ Image2.jpg
@@ -91,7 +91,7 @@ Before script :
 ```
 with remove_dir set to true, backup to true, final results
 ```
----- Path Specify
+---- Path Specified
 -------- BACKUP
 ------------ Folder1.zip
 ------------ Folder2.zip
@@ -102,7 +102,7 @@ with remove_dir set to true, backup to true, final results
 ## Annex B - Mode collectionToPdf
 Before script :
 ```
----- Path Specify
+---- Path Specified
 -------- Folder1
 ------------ Folder2
 ---------------- Image1.jpg
@@ -118,7 +118,7 @@ Before script :
 ```
 with remove_dir set to true, backup to true, final results
 ```
----- Path Specify
+---- Path Specified
 -------- Folder1
 ------------ BACKUP
 ---------------- Folder2.zip
